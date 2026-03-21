@@ -1,24 +1,32 @@
-# 👋 Hola, soy José Emilio
+# José Emilio Sánchez Miñón
 
-Desarrollador móvil enfocado en producto. Construyo aplicaciones con impacto real combinando ingeniería sólida con estrategia de negocio y validación de mercado.
+Desarrollador móvil enfocado en producto. Construyo aplicaciones combinando ingeniería con estrategia de negocio y validación de mercado.
 
 ---
 
-## 🚀 En qué trabajo
+## Proyectos
 
-### 📱 Nyma — Asistente para adultos mayores
-Aplicación móvil con IA conversacional, monitoreo IoT y detección temprana de enfermedades neurodegenerativas.  
-`React Native` `Expo` `Gemini API` `Assembly AI` `SQLite`  
+### Nyma — Asistente para adultos mayores `demo`
+
+Prototipo de aplicación móvil con IA conversacional, monitoreo IoT y detección temprana de enfermedades neurodegenerativas. **No es un producto en producción** — es una prueba de concepto técnica que explora la viabilidad de la arquitectura.
+
+`React Native` `Expo` `Gemini API` `AssemblyAI` `SQLite`
+
 [→ Ver repositorio](https://github.com/MemoLuche/Nyma-Project)
 
-### 🌐 MAKA OWS 2.0 — Online Wedding System
-Migración de monolito PHP a 5 microservicios NestJS con frontend en Next.js 14 y despliegue en AWS EC2.  
-`NestJS` `Next.js 14` `PostgreSQL` `Docker` `AWS`  
+---
+
+### MAKA OWS 2.0 — Online Wedding System
+
+Migración de monolito PHP a 5 microservicios NestJS con frontend en Next.js 14 y despliegue en AWS EC2.
+
+`NestJS` `Next.js 14` `PostgreSQL` `Docker` `AWS`
+
 [→ Ver documentación](https://jos3mi14.github.io/maka-ows.html)
 
 ---
 
-## 💻 Tech Stack
+## Stack
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -34,7 +42,7 @@ Migración de monolito PHP a 5 microservicios NestJS con frontend en Next.js 14 
 
 ---
 
-## 📬 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesanchezminon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://jos3mi14.github.io/)
