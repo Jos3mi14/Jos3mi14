@@ -1,44 +1,32 @@
 # José Emilio Sánchez Miñón
+**Ingeniero de Software Orientado a Producto**
 
-Desarrollador móvil enfocado en producto. Combino ingeniería, estrategia de negocio y validación de mercado para construir aplicaciones con propósito real.
+Construyo aplicaciones integrando arquitectura técnica robusta, estrategia de negocio y validación de mercado.
 
 ---
 
-## Proyectos destacados
+## Proyectos Destacados
 
-### Nyma — Asistente conversacional para adultos mayores
-PoC técnica que explora la viabilidad de combinar IA conversacional, monitoreo IoT y detección temprana de enfermedades neurodegenerativas en una sola arquitectura móvil. No es un producto en producción — es una demostración deliberada de integración de sistemas complejos.
+### Nyma | PoC Técnico
+Prueba de concepto diseñada para evaluar la viabilidad de una arquitectura de IA conversacional y monitoreo IoT orientada a la detección temprana de enfermedades neurodegenerativas. Prototipo de investigación arquitectónica; no productivo.
 
 `React Native` `Expo` `Gemini API` `AssemblyAI` `SQLite`  
-[→ Repositorio](https://github.com/MemoLuche/Nyma-Project)
+[→ Ver repositorio](https://github.com/MemoLuche/Nyma-Project)
+
+### MAKA OWS 2.0 | Online Wedding System
+Migración de un monolito PHP hacia una arquitectura de 5 microservicios. Proyecto colaborativo enfocado en la implementación técnica y el despliegue en AWS EC2 sobre un stack tecnológico predefinido por el equipo.
+
+`NestJS` `Next.js 14` `PostgreSQL` `Docker` `AWS`  
+[→ Ver documentación](https://jos3mi14.github.io/maka-ows.html)
 
 ---
 
-### MAKA OWS 2.0 — Online Wedding System
-Migración completa de monolito PHP legado a arquitectura de 5 microservicios independientes, con frontend moderno y despliegue en nube. Proyecto que implicó rediseño de dominio, separación de responsabilidades y estrategia de transición sin downtime.
+## Stack Técnico Principal
 
-`NestJS` `Next.js 14` `PostgreSQL` `Docker` `AWS EC2`  
-[→ Documentación](https://jos3mi14.github.io/maka-ows.html)
-
----
-
-## Stack
-
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesanchezminon/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://jos3mi14.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jsanchezminon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](#)
